@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  9 AUG 2023 10:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  9 SEP 2023 01:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -194,49 +194,54 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 45.
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
 
  []
 
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 119.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 122.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 119.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 122.
 
-Overfull \hbox (11.9537pt too wide) in paragraph at lines 134--135
+Overfull \hbox (11.9537pt too wide) in paragraph at lines 137--138
 []\OT1/cmr/m/it/10 Dynamics and Syn-chro-niza-tion in Ran-dom Net-works of Cou-
 pled Phase-Oscillators:
- []
-
-
-Overfull \hbox (9.27371pt too wide) in paragraph at lines 141--142
-[]\OT1/cmr/m/it/10 Metastasis: Ran-dom-ness of Seed-ing and Ge-netic Het-ero-ge
-ne-ity\OT1/cmr/m/n/10 , Stan-ford Medicine
  []
 
 [2
 
 ]
-Overfull \hbox (1.44391pt too wide) in paragraph at lines 151--152
+Overfull \hbox (9.27371pt too wide) in paragraph at lines 144--145
+[]\OT1/cmr/m/it/10 Metastasis: Ran-dom-ness of Seed-ing and Ge-netic Het-ero-ge
+ne-ity\OT1/cmr/m/n/10 , Stan-ford Medicine
+ []
+
+
+Overfull \hbox (1.44391pt too wide) in paragraph at lines 154--155
 []\OT1/cmr/m/it/10 On Pro-fes-sion-al-ism as a Teach-ing As-sis-tant\OT1/cmr/m/
 n/10 , De-part-ment of Math-e-mat-ics Teach-
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 184.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
 [3
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 184.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 184.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 184.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 184.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 187.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
  ) 
 Here is how much of TeX's memory you used:
  4306 strings out of 492649
@@ -254,7 +259,7 @@ usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr
 /local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/
 local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
 ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on ShriyaNagpalCV.pdf (3 pages, 115277 bytes).
+Output written on ShriyaNagpalCV.pdf (3 pages, 115652 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
